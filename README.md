@@ -1,4 +1,4 @@
-기술 스
+기술 스택
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">    <img src="https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=Java&logoColor=white">     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">    <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white">    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
